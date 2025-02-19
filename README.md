@@ -37,7 +37,7 @@ It highlights key **data cleaning, exploratory analysis, and visualization techn
 ---
 
 ## 🛠 Tools & Technologies
-- **Python** (`pandas`, `numpy`, `matplotlib`, `seaborn`)
+- **Python** (`pandas`, `numpy`, `matplotlib`)
 - **Jupyter Notebook**
 - **Data Wrangling & Preprocessing**
 - **Statistical Analysis & Visualization**
