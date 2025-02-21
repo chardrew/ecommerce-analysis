@@ -5,26 +5,26 @@
 ---
 
 ## 🚀 Project Overview
-This project analyzes e-commerce transaction data to extract insights into **customer behavior, product performance, and sales trends**.  
-It highlights key **data cleaning, exploratory analysis, and visualization techniques** using Python.
+This project analyses e-commerce transaction data to extract insights into **customer behavior, product performance, and sales trends**.  
+It highlights key **data cleaning, exploratory analysis, and visualisation techniques** using Python.
 
 ---
 
 ## 📌 Data Analyst Skills Demonstrated
 
 ### 1️⃣ Data Cleaning & Preprocessing
-- ✅ Handling **missing values**: Checking for `null` values and analyzing missing records  
+- ✅ Handling **missing values**: Checking for `null` values and analysing missing records  
 - ✅ Performing **data type conversions** to ensure consistency  
 - ✅ **Outlier detection** to identify anomalies  
-- ✅ **Data standardization** to maintain uniform formats  
+- ✅ **Data standardisation** to maintain uniform formats  
 
 ### 2️⃣ Exploratory Data Analysis (EDA)
-- 📊 **Summarizing data** to understand dataset structure  
+- 📊 **Summarising data** to understand dataset structure  
 - 🔍 **Detecting anomalies** and unusual trends  
-- ⚡ **Efficient filtering, grouping & aggregation** using **vectorized operations** instead of loops for large datasets  
+- ⚡ **Efficient filtering, grouping & aggregation** using **vectorised operations** instead of loops for large datasets  
 
-### 3️⃣ Data Visualization
-- 📅 **Visualizing data over different time periods** (daily, monthly, quarterly)  
+### 3️⃣ Data Visualisation
+- 📅 **Visualising data over different time periods** (daily, monthly, quarterly)  
 - 📈 **Aggregating data** to improve clarity and identify trends  
 
 ---
@@ -40,7 +40,7 @@ It highlights key **data cleaning, exploratory analysis, and visualization techn
 - **Python** (`pandas`, `numpy`, `matplotlib`)
 - **Jupyter Notebook**
 - **Data Wrangling & Preprocessing**
-- **Statistical Analysis & Visualization**
+- **Statistical Analysis & Visualisation**
 
 ---
 
