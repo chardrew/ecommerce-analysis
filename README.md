@@ -1,11 +1,11 @@
 # 📊 E-Commerce Analysis
 
-**Customer Behavior Analysis & Product Insights using E-Commerce Data**
+**Customer Behaviour Analysis & Product Insights using E-Commerce Data**
 
 ---
 
 ## 🚀 Project Overview
-This project analyses e-commerce transaction data to extract insights into **customer behavior, product performance, and sales trends**.  
+This project analyses e-commerce transaction data to extract insights into **customer behaviour, product performance, and sales trends**.  
 It highlights key **data cleaning, exploratory analysis, and visualisation techniques** using Python.
 
 ---
@@ -32,7 +32,7 @@ It highlights key **data cleaning, exploratory analysis, and visualisation techn
 ## 📂 Dataset
 - The dataset is available [here](https://www.kaggle.com/datasets/carrie1/ecommerce-data?select=data.csv)
 - The dataset consists of **e-commerce transaction records** including invoices, stock codes, descriptions, quantities, and prices.  
-- The focus is on **sales trends, product demand, and customer purchase behavior**.
+- The focus is on **sales trends, product demand, and customer purchase behaviour**.
 
 ---
 
